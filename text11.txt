@@ -1,0 +1,5 @@
+<<<<<<< HEAD:text.txt
+some text56
+=======
+>>>>>>> develop:text11.txt
+some text
